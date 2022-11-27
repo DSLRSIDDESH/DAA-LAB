@@ -1,0 +1,1 @@
+{"name":"Local: matrix_chain_mul","url":"/Users/siddesh/Desktop/DAA/matrix_chain_mul.py","tests":[{"id":1669542115298,"input":"5\n1x10\n10x2\n2x5\n5x4\n4x1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/siddesh/Desktop/DAA/matrix_chain_mul.py","group":"local","local":true}

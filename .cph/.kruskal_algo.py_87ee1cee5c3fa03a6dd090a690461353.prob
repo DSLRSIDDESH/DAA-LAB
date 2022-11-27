@@ -1,0 +1,1 @@
+{"name":"Local: kruskal_algo","url":"/Users/siddesh/Desktop/DAA/kruskal_algo.py","tests":[{"id":1669571435741,"input":"5\n5\n0 1 2\n1 2 4\n2 3 3\n3 0 1\n3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/siddesh/Desktop/DAA/kruskal_algo.py","group":"local","local":true}

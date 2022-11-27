@@ -1,0 +1,17 @@
+coderunner
+color highlight
+cph
+github copilot
+github markdown preview
+gitlens
+live preview
+python, c++
+material icon theme
+vscode input sequence
+autoclose tag
+live server
+style lint
+eslint
+ejs language support
+remote ssh
+prettier
