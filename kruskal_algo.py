@@ -31,7 +31,7 @@ def kruskal(graph,nv):
         union(a,b)
         min_cost += min
         edge_count += 1
-        krusk.append([a,b])
+        krusk.append((a,b))
     print("The weight of the minimum spanning tree is :",min_cost)
     return krusk
 krusk = kruskal(graph,nv)
